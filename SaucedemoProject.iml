@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/Program Files/JCommander" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/Program Files/JCommander" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/Program Files/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/Program Files/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://D:/Program Files/TestNG" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/Program Files/TestNG" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Program Files/selenium-api-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-chrome-driver-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-chromium-driver-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v85-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v112-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v113-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v114-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-edge-driver-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-firefox-driver-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-http-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-ie-driver-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-java-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-json-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-manager-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-remote-driver-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-safari-driver-4.10.0.jar!/" />
+          <root url="jar://D:/Program Files/selenium-support-4.10.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/Program Files/selenium-api-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-chrome-driver-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-chromium-driver-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v85-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v112-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v113-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-devtools-v114-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-edge-driver-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-firefox-driver-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-http-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-ie-driver-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-json-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-manager-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-remote-driver-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-safari-driver-4.10.0-sources.jar!/" />
+          <root url="jar://D:/Program Files/selenium-support-4.10.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
